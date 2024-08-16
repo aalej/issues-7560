@@ -6,6 +6,11 @@ firebase-tools: v13.15.1<br>
 node: v20.12.2<br>
 platform: macOS 14.5
 
+## Setup
+
+1. Download a service account key then place it in `./functions/service-account.json`
+   - The service account must have permission to write to Firestore
+
 ## Steps to reproduce
 
 ### Emulator
