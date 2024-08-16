@@ -62,7 +62,6 @@ i  functions: Finished "us-central1-onFileDocWritten" in 6.265834ms
    - Click the "Choose File" button
    - Choose `foo.png` located in `./images/foo.png`
    - Click "Upload"
-   - Logs in emulator terminal show
 
 6. Function logs show "File doc was updated or overwritten."
 
